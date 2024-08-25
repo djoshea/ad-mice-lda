@@ -1,0 +1,16 @@
+{
+	"folders": [
+    {
+      "path": "../../../data/tedho_ad_mice"
+    }
+  ],
+  "settings": {
+    "jupyter.debugJustMyCode": false,
+    "jupyter.jupyterCommandLineArguments": [
+
+    ],
+    "python.analysis.enablePytestSupport": false,
+    "ruff.nativeServer": true,
+    "python.languageServer": "None"
+  }
+}
