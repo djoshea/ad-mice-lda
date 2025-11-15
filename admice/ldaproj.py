@@ -123,7 +123,6 @@ def project_lda_pufftone(
 
 
 # ray version
-# original version without ray
 def project_lda_pufftone_parallel_samples(
   sess: Session,
   filt_strat_fit: FilteringStrategy,
