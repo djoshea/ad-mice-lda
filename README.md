@@ -1,3 +1,3 @@
-# ted-ho-ad-mouse-project
+# LDA projection analyses for Ho et al., 2025 
 
-Describe your project here.
+Paper figures generated via [figure_final_v0.ipynb](./notebooks/figure_final_v0.ipynb)
