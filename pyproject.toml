@@ -39,3 +39,10 @@ allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["admice"]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "treescope>=0.1.10",
+]
